@@ -1,0 +1,104 @@
+{
+  "missions": [
+    {
+      "id": 1,
+      "title": "Mercury-Redstone 3",
+      "description": "First human spaceflight in the Mercury program, also known as the Freedom 7 mission, piloted by Alan Shepard.",
+      "employee_id": 10,
+      "deadline": "1961-05-05",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "title": "Apollo 11",
+      "description": "First manned mission to land on the Moon, commanded by Neil Armstrong and piloted by Buzz Aldrin.",
+      "employee_id": 2,
+      "deadline": "1969-07-20",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "title": "Voyager 2",
+      "description": "Space probe launched by NASA to study the outer planets. Explored Jupiter, Saturn, Uranus, and Neptune.",
+      "employee_id": 9,
+      "deadline": "1977-08-20",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "title": "Curiosity Rover",
+      "description": "Mars rover launched to explore the Gale Crater on Mars, part of NASA's Mars Science Laboratory mission.",
+      "employee_id": 10,
+      "deadline": "2011-11-26",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "title": "Hubble Space Telescope",
+      "description": "Space telescope launched into low Earth orbit in 1990, providing high-resolution images of celestial objects.",
+      "employee_id": 4,
+      "deadline": "1990-04-24",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "title": "New Horizons",
+      "description": "Space probe launched to study Pluto and the Kuiper Belt, providing valuable data about these distant regions.",
+      "employee_id": 3,
+      "deadline": "2006-01-19",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "title": "Mars 2020 Perseverance Rover",
+      "description": "Mars rover designed to explore the Martian surface and search for signs of past life.",
+      "employee_id": 5,
+      "deadline": "2020-07-30",
+      "status": "Accomplished",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "title": "James Webb Space Telescope",
+      "description": "Upcoming space telescope aiming to succeed the Hubble Space Telescope, set to study the cosmos.",
+      "employee_id": 6,
+      "deadline": "2024-12-01",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "title": "Europa Clipper Mission",
+      "description": "Planned mission to explore Jupiter's moon Europa, assessing its potential for habitability.",
+      "employee_id": 2,
+      "deadline": "2025-03-12",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "title": "Artemis Program",
+      "description": "NASA's program aiming to return humans to the Moon and establish a sustainable presence there.",
+      "employee_id": 9,
+      "deadline": "2024-09-17",
+      "status": "Pending",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}

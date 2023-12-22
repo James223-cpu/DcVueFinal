@@ -1,0 +1,94 @@
+{
+  "personnels": [
+    {
+      "id": 1,
+      "full_name": "Sigurd Quigley",
+      "email": "sigurd.quigley@nasa.gov",
+      "position": "Spacecraft Technician",
+      "department": "Engineering",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 2,
+      "full_name": "Miss Adrianna Wisozk",
+      "email": "adrianna.wisozk@nasa.gov",
+      "position": "Flight Software Specialist",
+      "department": "Software Engineering",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 3,
+      "full_name": "Dorothea Denesik",
+      "email": "dorothea.denesik@nasa.gov",
+      "position": "Mission Operations Manager",
+      "department": "Operations",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 4,
+      "full_name": "Dejon Gutkowski",
+      "email": "dejon.gutkowski@nasa.gov",
+      "position": "HR Specialist",
+      "department": "Human Resources",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 5,
+      "full_name": "Mrs. Aurelie Durgan DDS",
+      "email": "aurelie.durgan@nasa.gov",
+      "position": "Spacecraft Systems Engineer",
+      "department": "Engineering",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 6,
+      "full_name": "Dr. Emmitt Blanda DVM",
+      "email": "emmitt.blanda@nasa.gov",
+      "position": "Flight Surgeon",
+      "department": "Medical Services",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 7,
+      "full_name": "Juwan Blick",
+      "email": "juwan.blick@nasa.gov",
+      "position": "Mission Planning Specialist",
+      "department": "Mission Planning",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 8,
+      "full_name": "Joel Ortiz",
+      "email": "joel.ortiz@nasa.gov",
+      "position": "Astronaut Trainer",
+      "department": "Training and Development",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 9,
+      "full_name": "Lenny Hermann",
+      "email": "lenny.hermann@nasa.gov",
+      "position": "Mission Control Supervisor",
+      "department": "Mission Control",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    },
+    {
+      "id": 10,
+      "full_name": "Rocky Morissette",
+      "email": "rocky.morissette@nasa.gov",
+      "position": "Space Psychologist",
+      "department": "Research and Development",
+      "created_at": "2023-12-21T14:31:06.000000Z",
+      "updated_at": "2023-12-21T14:31:06.000000Z"
+    }
+  ]
+}
